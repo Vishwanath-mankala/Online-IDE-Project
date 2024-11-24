@@ -51,6 +51,7 @@ Ensure you have the following installed:
    ```
 4.**Open your browser:**
 -Navigate to http://localhost:3000 to access and use the IDE
+-Or use this link https://online-ide-project.vercel.app/
 
 
 
