@@ -1,0 +1,36 @@
+/* Add this to your global CSS or component CSS */
+.monaco-editor {
+    @apply bg-slate-800 !important;
+  }
+  
+  .monaco-editor .margin {
+    @apply bg-slate-800 !important;
+  }
+  
+  .monaco-editor .minimap {
+    @apply bg-slate-900 !important;
+  }
+  
+  .monaco-editor .lines-content {
+    @apply bg-slate-800 !important;
+  }
+  
+  .monaco-editor .line-numbers {
+    @apply text-slate-500 !important;
+  }
+  
+  .monaco-editor .current-line {
+    @apply bg-slate-700 !important;
+  }
+  
+  .monaco-editor .cursor {
+    @apply bg-white !important;
+  }
+  
+  .monaco-editor .bracket-match {
+    @apply bg-slate-700 !important;
+  }
+  
+  .monaco-editor .selected-text {
+    @apply bg-slate-700 !important;
+  }
