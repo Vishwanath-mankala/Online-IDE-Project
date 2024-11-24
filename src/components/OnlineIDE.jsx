@@ -23,8 +23,8 @@ const OnlineIDE = () => {
   const [savedSnippets, setSavedSnippets] = useState([]);
 
   // Move API keys to environment variables in production
-  const JUDGE_API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
-  const PERPLEXITY_API_KEY = 'pplx-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
+  const JUDGE_API_KEY = '139cb34320mshb5f8759efba2500p1e630djsn50798725f7ef';
+  const PERPLEXITY_API_KEY = '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';
 
   const languages = {
     python: {
